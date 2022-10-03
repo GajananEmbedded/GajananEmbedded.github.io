@@ -215,7 +215,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("./src/javawall.webp") no-repeat center;
+  background: url("./src/bg1.jpg") no-repeat center;
   background-color: #111;
   height: 100vh;
   color: #fff;
