@@ -119,9 +119,11 @@ section .title::after {
 
 .pro-info>.tech-stach{
 
+  display: block;
   background-color: #000;
   color: #fff;
   padding: 3px;
+
 
 }
 
