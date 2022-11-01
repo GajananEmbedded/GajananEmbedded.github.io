@@ -189,7 +189,7 @@ $(document).ready(function () {
 
 
   function contshow(){
-    window.location.href="mailto:priydghawale@gmail.com?subject=regarding hiring";
+    window.location.href="mailto:gdghawale@gmail.com?subject=regarding hiring";
   }
   let my_cont=document.querySelector(".cont-box-b").addEventListener("click",contshow)
 
@@ -210,7 +210,7 @@ $(document).ready(function () {
 
 
   function contshow4(){
-    window.open(href="./src/Gajanan_Ghawale__.pdf");
+    window.open(href="./src/Gajanan-Ghawale-Resume.pdf");
     
   }
 
